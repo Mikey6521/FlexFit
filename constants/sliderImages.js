@@ -1,4 +1,4 @@
-export const rapidAPIkey = '72028a1637mshceb6a096f5c1fcbp14e807jsn94949fdc2ee3';
+export const rapidAPIkey = 'enter your api key';
 
 
 export const sliderImages =[
